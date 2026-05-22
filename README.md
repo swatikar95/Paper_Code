@@ -1,4 +1,4 @@
-# Medication Prediction(ICU Patients)
+# Medication Prediction (ICU Patients)
 
 Code for comparing four biomedical LLMs on ICU medication prediction, across three modes: zero-shot (no retrieval), RAG, and supervised fine-tuning. Targets are ATC-3 codes.
 
